@@ -2,6 +2,7 @@ from pushbullet import Pushbullet
 import random
 import string
 
+# a133e274940fa4343650bd1884971d4252d40810
 # installare pus
 # pip install pushbullet.py
 # pb.device
